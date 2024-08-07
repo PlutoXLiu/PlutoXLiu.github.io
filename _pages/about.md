@@ -20,7 +20,7 @@ You can learn more about our project through these publications:
 - Fraser CI et al. (2018). Antarctica’s ecological isolation will be broken by storm-driven dispersal and warming. Nature Climate Change 8, 704–708. [https://doi.org/10.1038/s41558-018-0209-7](https://doi.org/10.1038/s41558-018-0209-7). <br>
 - Fraser CI et al. (2022). Southern Hemisphere coasts are biologically connected by frequent, long-distance rafting events. Current Biology 32(14), 3154-3160. [https://doi.org/10.1016/j.cub.2022.05.035](https://doi.org/10.1016/j.cub.2022.05.035). <br>
 
-![How kelp reached Antarctica (Fraser et al. 2018 Nat. Clim. Change.).](https://github.com/plutoxliu/plutoxliu.github.io/blob/ada348839e81a97013dbd2fe71e55c0c0c062f4c/images/Fraser%20et%20al.%202018.png)
+![How kelp reached Antarctica (Fraser et al. 2018 Nat. Clim. Change.).](https://github.com/plutoxliu/plutoxliu.github.io/blob/ecb2bfbf2e6a55734f12d97a79d31c65a097b848/images/Fraser%20et%20al.%202018.png)
 
 My publications
 ======
