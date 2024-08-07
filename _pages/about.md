@@ -1,21 +1,27 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Pluto Xiaoyue Liu"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Kia ora | Hello
+I am a PhD student at the University of Otago, New Zealand, supervised by Prof. Ceridwen Fraser and Dr. Alana Alexander. I am studying about the population genomics of buoyant kelp (*Macrocystis pyrifera* | giant bladder kelp or Rimurimu in Maori and *Durvillaea antarctica* | southern bull kelp or Rimurapa in Maori) around the Southern Ocean, and whether they could establish in Antartctica in the future. My methods include population genomics (genotyping-by-sequencing), physiological tolerance experimentation as well as ecological modelling.
 
-A data-driven personal website
+Why study this?
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Antarctica has long been considered to be isolated, with strong oceanographic barriers preventing species - except those that can swim or fly long distances - from reaching it. Antarctica has also been seen as a pristine land largely untouched by humans, with no permanent human settlements other than research stations. However, exciting emerging research (e.g. (https://www.nature.com/articles/d41586-022-01584-4) is challenging both assumptions. Non-indigenous invertebrates, mosses, grass and seaweeds have been discovered along Antarctic coasts, while human activities have been rapidly increasing over the past decades, actively introducing exotic species. 
+Buoyant kelp (particularly southern bull kelp *Durvillaea antarctica* and giant bladder kelp *Macrocystis pyrifera*) can travel thousands of kilometres from one coast to another, and reproductively viable kelp originating from sub-Antarctic islands such as South Georgia has been found washed up on Antarctic beaches. Secondly, various organisms (molluscs, polychaetes, arthropods, echinoderms etc.) can hitchhike with rafting kelp, for example within kelp holdfasts. Based on modelling, we now think that such events have been happening frequently and for a long time, with establishment only prevented - for now - by the extreme iciness of Antarctica. There is a pressing need to study the origins, sources, dispersal trajectories and Antarctic viability of these marine species, which seem poised to establish along Antarctic coasts in the future.
+You can learn more about our project through these publications:
+Fraser CI et al. (2018). Antarctica’s ecological isolation will be broken by storm-driven dispersal and warming. Nature Climate Change 8, 704–708. [https://doi.org/10.1038/s41558-018-0209-7](https://doi.org/10.1038/s41558-018-0209-7).
+Fraser CI et al. (2022). Southern Hemisphere coasts are biologically connected by frequent, long-distance rafting events. Current Biology 32(14), 3154-3160. [https://doi.org/10.1016/j.cub.2022.05.035](https://doi.org/10.1016/j.cub.2022.05.035).
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+![How kelp reached Antarctica (Fraser et al. 2018 Nat. Clim. Change.).](https://github.com/plutoxliu/plutoxliu.github.io/blob/eb5326af1f089de097b8adb8d1e50c74e99ad3b4/images/Fraser%20et%20al.%202018.png)
+
+publications
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
