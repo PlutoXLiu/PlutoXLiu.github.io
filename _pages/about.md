@@ -17,42 +17,30 @@ Buoyant kelp (particularly southern bull kelp *Durvillaea antarctica* and giant 
 
 You can learn more about our project through these publications:
 
-Fraser CI et al. (2018). Antarctica’s ecological isolation will be broken by storm-driven dispersal and warming. Nature Climate Change 8, 704–708. [https://doi.org/10.1038/s41558-018-0209-7](https://doi.org/10.1038/s41558-018-0209-7).
-
-Fraser CI et al. (2022). Southern Hemisphere coasts are biologically connected by frequent, long-distance rafting events. Current Biology 32(14), 3154-3160. [https://doi.org/10.1016/j.cub.2022.05.035](https://doi.org/10.1016/j.cub.2022.05.035).
-
-
+Fraser CI et al. (2018). Antarctica’s ecological isolation will be broken by storm-driven dispersal and warming. Nature Climate Change 8, 704–708. [https://doi.org/10.1038/s41558-018-0209-7](https://doi.org/10.1038/s41558-018-0209-7). <br>
+Fraser CI et al. (2022). Southern Hemisphere coasts are biologically connected by frequent, long-distance rafting events. Current Biology 32(14), 3154-3160. [https://doi.org/10.1016/j.cub.2022.05.035](https://doi.org/10.1016/j.cub.2022.05.035). <br>
 ![How kelp reached Antarctica (Fraser et al. 2018 Nat. Clim. Change.).](https://github.com/plutoxliu/plutoxliu.github.io/blob/eb5326af1f089de097b8adb8d1e50c74e99ad3b4/images/Fraser%20et%20al.%202018.png)
 
-publications
+My publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Liu XP, Duffy GA, Pearman WS, Pertierra LR, Fraser CI (2022). Meta-analysis of Antarctic phylogeography reveals strong sampling bias and critical knowledge gaps. ***Ecography*** : 2022(12). Doi: 10.1111/ecog.06312. <br>
+Pertierra LR et al. (2024). TerrANTALife 1.0 Biodiversity data checklist of known Antarctic terrestrial and freshwater life forms. ***Biodiversity Data Journal*** . 12: e106199. Doi: 10.3897/BDJ.12.e106199. <br>
+McGaughran et al. (2024). Genomic tools in biological invasions: current state and future frontiers. ***Genome Biology and Evolution*** . 16(1), evad230. Doi: 10.1093/gbe/evad230. <br>
+Pearman WS, Duffy GA, Liu XP, Gemmell NJ, Morales SE, Fraser CI (2024). Macroalgal microbiome biogeography is shaped by environmental drivers not geographic distance. ***Annals of Botany***. 133(1), 169-182. Doi: 10.1093/aob/mcad151. <br>
+Damen B et al. (2017). Climate Action for Agriculture: Strengthening the role of scientific foresight and climate-smart agriculture in addressing NDC priorities. ***Food and Agriculture Organization of the United Nations (FAO)***. Rome, Italy: FAO. [https://www.fao.org/publications/card/en/c/b881dba6-da51-43b3-a6eb-a83c735b0927]
 
-Site-wide configuration
+In review
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Pertierra LR et al. (2024). Advances and shortfalls in Antarctic terrestrial biodiversity science. ***Submitted to Science***.
 
-Create content & metadata
+Conference presentations
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Liu XP, Alexander A, Duffy GA, Fraser CI (2023). Genetic/genomic resources for biogeographic research in terrestrial Antarctica. Verbal presentation at **the XIII Scientific Committee on Antarctic Research (SCAR) Biology Symposium**, Christchurch, New Zealand. <br>
+Liu XP, Alexander A, Duffy GA, Fraser CI (2023). Will rafting sub-Antarctic kelp and its passengers become established in Antarctica? Verbal presentation at **the MBE Regional Meeting on The Role of the Genome in Biological Invasion**, Hamilton, New Zealand. <br>
+Liu XP, Duffy GA, Pearman WS, Pertierra LR, & Fraser CI (2022). Genetic/genomic resources for biogeographic research in terrestrial Antarctica. Poster presentation at **the Proceedings of the Genetics Otago (GO) Annual Symposium**, Dunedin, New Zealand. <br>
+Liu XP, Duffy GA, Pearman WS, Pertierra LR, & Fraser CI (2022). Genetic/genomic resources for biogeographic research in terrestrial Antarctica. Poster presentation at **the 31st Queenstown Molecular Biology Meeting (QMB)**, Queenstown, New Zealand. <br>
+Liu XP, Pearman WS, & Fraser CI (2021). Genetic/genomic resources for biogeographic research in Antarctica. Verbal presentation at **the Proceedings of the New Zealand Antarctic Science Conference: Connecting through change**, Christchurch, New Zealand. <br>
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+Science communications
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- BLAKE NZ expedition to Motu Ihupuku Campbell Island (2023) as a visiting scientist.
