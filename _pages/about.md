@@ -17,30 +17,30 @@ Buoyant kelp (particularly southern bull kelp *Durvillaea antarctica* and giant 
 
 You can learn more about our project through these publications:
 
-Fraser CI et al. (2018). Antarctica’s ecological isolation will be broken by storm-driven dispersal and warming. Nature Climate Change 8, 704–708. [https://doi.org/10.1038/s41558-018-0209-7](https://doi.org/10.1038/s41558-018-0209-7). <br>
-Fraser CI et al. (2022). Southern Hemisphere coasts are biologically connected by frequent, long-distance rafting events. Current Biology 32(14), 3154-3160. [https://doi.org/10.1016/j.cub.2022.05.035](https://doi.org/10.1016/j.cub.2022.05.035). <br>
+- Fraser CI et al. (2018). Antarctica’s ecological isolation will be broken by storm-driven dispersal and warming. Nature Climate Change 8, 704–708. [https://doi.org/10.1038/s41558-018-0209-7](https://doi.org/10.1038/s41558-018-0209-7). <br>
+- Fraser CI et al. (2022). Southern Hemisphere coasts are biologically connected by frequent, long-distance rafting events. Current Biology 32(14), 3154-3160. [https://doi.org/10.1016/j.cub.2022.05.035](https://doi.org/10.1016/j.cub.2022.05.035). <br>
 
 ![How kelp reached Antarctica (Fraser et al. 2018 Nat. Clim. Change.).](https://github.com/plutoxliu/plutoxliu.github.io/blob/eb5326af1f089de097b8adb8d1e50c74e99ad3b4/images/Fraser%20et%20al.%202018.png)
 
 My publications
 ======
-Liu XP, Duffy GA, Pearman WS, Pertierra LR, Fraser CI (2022). Meta-analysis of Antarctic phylogeography reveals strong sampling bias and critical knowledge gaps. ***Ecography*** : 2022(12). Doi: 10.1111/ecog.06312. <br>
-Pertierra LR et al. (2024). TerrANTALife 1.0 Biodiversity data checklist of known Antarctic terrestrial and freshwater life forms. ***Biodiversity Data Journal*** . 12: e106199. Doi: 10.3897/BDJ.12.e106199. <br>
-McGaughran et al. (2024). Genomic tools in biological invasions: current state and future frontiers. ***Genome Biology and Evolution*** . 16(1), evad230. Doi: 10.1093/gbe/evad230. <br>
-Pearman WS, Duffy GA, Liu XP, Gemmell NJ, Morales SE, Fraser CI (2024). Macroalgal microbiome biogeography is shaped by environmental drivers not geographic distance. ***Annals of Botany***. 133(1), 169-182. Doi: 10.1093/aob/mcad151. <br>
-Damen B et al. (2017). Climate Action for Agriculture: Strengthening the role of scientific foresight and climate-smart agriculture in addressing NDC priorities. ***Food and Agriculture Organization of the United Nations (FAO)***. Rome, Italy: FAO. [https://www.fao.org/publications/card/en/c/b881dba6-da51-43b3-a6eb-a83c735b0927]
+- Liu XP, Duffy GA, Pearman WS, Pertierra LR, Fraser CI (2022). Meta-analysis of Antarctic phylogeography reveals strong sampling bias and critical knowledge gaps. ***Ecography*** : 2022(12). Doi: 10.1111/ecog.06312. <br>
+- Pertierra LR et al. (2024). TerrANTALife 1.0 Biodiversity data checklist of known Antarctic terrestrial and freshwater life forms. ***Biodiversity Data Journal*** . 12: e106199. Doi: 10.3897/BDJ.12.e106199. <br>
+- McGaughran et al. (2024). Genomic tools in biological invasions: current state and future frontiers. ***Genome Biology and Evolution*** . 16(1), evad230. Doi: 10.1093/gbe/evad230. <br>
+- Pearman WS, Duffy GA, Liu XP, Gemmell NJ, Morales SE, Fraser CI (2024). Macroalgal microbiome biogeography is shaped by environmental drivers not geographic distance. ***Annals of Botany***. 133(1), 169-182. Doi: 10.1093/aob/mcad151. <br>
+- Damen B et al. (2017). Climate Action for Agriculture: Strengthening the role of scientific foresight and climate-smart agriculture in addressing NDC priorities. ***Food and Agriculture Organization of the United Nations (FAO)***. Rome, Italy: FAO. [https://www.fao.org/publications/card/en/c/b881dba6-da51-43b3-a6eb-a83c735b0927]
 
 In review
 ------
-Pertierra LR et al. (2024). Advances and shortfalls in Antarctic terrestrial biodiversity science. ***Submitted to Science***.
+- Pertierra LR et al. (2024). Advances and shortfalls in Antarctic terrestrial biodiversity science. ***Submitted to Science***.
 
 Conference presentations
 ------
-Liu XP, Alexander A, Duffy GA, Fraser CI (2023). Genetic/genomic resources for biogeographic research in terrestrial Antarctica. Verbal presentation at **the XIII Scientific Committee on Antarctic Research (SCAR) Biology Symposium**, Christchurch, New Zealand. <br>
-Liu XP, Alexander A, Duffy GA, Fraser CI (2023). Will rafting sub-Antarctic kelp and its passengers become established in Antarctica? Verbal presentation at **the MBE Regional Meeting on The Role of the Genome in Biological Invasion**, Hamilton, New Zealand. <br>
-Liu XP, Duffy GA, Pearman WS, Pertierra LR, & Fraser CI (2022). Genetic/genomic resources for biogeographic research in terrestrial Antarctica. Poster presentation at **the Proceedings of the Genetics Otago (GO) Annual Symposium**, Dunedin, New Zealand. <br>
-Liu XP, Duffy GA, Pearman WS, Pertierra LR, & Fraser CI (2022). Genetic/genomic resources for biogeographic research in terrestrial Antarctica. Poster presentation at **the 31st Queenstown Molecular Biology Meeting (QMB)**, Queenstown, New Zealand. <br>
-Liu XP, Pearman WS, & Fraser CI (2021). Genetic/genomic resources for biogeographic research in Antarctica. Verbal presentation at **the Proceedings of the New Zealand Antarctic Science Conference: Connecting through change**, Christchurch, New Zealand. <br>
+- Liu XP, Alexander A, Duffy GA, Fraser CI (2023). Genetic/genomic resources for biogeographic research in terrestrial Antarctica. Verbal presentation at **the XIII Scientific Committee on Antarctic Research (SCAR) Biology Symposium**, Christchurch, New Zealand. <br>
+- Liu XP, Alexander A, Duffy GA, Fraser CI (2023). Will rafting sub-Antarctic kelp and its passengers become established in Antarctica? Verbal presentation at **the MBE Regional Meeting on The Role of the Genome in Biological Invasion**, Hamilton, New Zealand. <br>
+- Liu XP, Duffy GA, Pearman WS, Pertierra LR, & Fraser CI (2022). Genetic/genomic resources for biogeographic research in terrestrial Antarctica. Poster presentation at **the Proceedings of the Genetics Otago (GO) Annual Symposium**, Dunedin, New Zealand. <br>
+- Liu XP, Duffy GA, Pearman WS, Pertierra LR, & Fraser CI (2022). Genetic/genomic resources for biogeographic research in terrestrial Antarctica. Poster presentation at **the 31st Queenstown Molecular Biology Meeting (QMB)**, Queenstown, New Zealand. <br>
+- Liu XP, Pearman WS, & Fraser CI (2021). Genetic/genomic resources for biogeographic research in Antarctica. Verbal presentation at **the Proceedings of the New Zealand Antarctic Science Conference: Connecting through change**, Christchurch, New Zealand. <br>
 
 Science communications
 ------
