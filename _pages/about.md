@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Kia ora | Hello
+Kia ora, Hello!
 I am a PhD student at the University of Otago, New Zealand, supervised by Prof. Ceridwen Fraser and Dr. Alana Alexander. I am studying about the population genomics of buoyant kelp (*Macrocystis pyrifera* | giant bladder kelp or Rimurimu in Maori and *Durvillaea antarctica* | southern bull kelp or Rimurapa in Maori) around the Southern Ocean, and whether they could establish in Antartctica in the future. My methods include population genomics (genotyping-by-sequencing), physiological tolerance experimentation as well as ecological modelling.
 
 Why study this?
