@@ -14,8 +14,11 @@ Why study this?
 ======
 Antarctica has long been considered to be isolated, with strong oceanographic barriers preventing species - except those that can swim or fly long distances - from reaching it. Antarctica has also been seen as a pristine land largely untouched by humans, with no permanent human settlements other than research stations. However, exciting emerging research (e.g. (https://www.nature.com/articles/d41586-022-01584-4) is challenging both assumptions. Non-indigenous invertebrates, mosses, grass and seaweeds have been discovered along Antarctic coasts, while human activities have been rapidly increasing over the past decades, actively introducing exotic species. 
 Buoyant kelp (particularly southern bull kelp *Durvillaea antarctica* and giant bladder kelp *Macrocystis pyrifera*) can travel thousands of kilometres from one coast to another, and reproductively viable kelp originating from sub-Antarctic islands such as South Georgia has been found washed up on Antarctic beaches. Secondly, various organisms (molluscs, polychaetes, arthropods, echinoderms etc.) can hitchhike with rafting kelp, for example within kelp holdfasts. Based on modelling, we now think that such events have been happening frequently and for a long time, with establishment only prevented - for now - by the extreme iciness of Antarctica. There is a pressing need to study the origins, sources, dispersal trajectories and Antarctic viability of these marine species, which seem poised to establish along Antarctic coasts in the future.
+
 You can learn more about our project through these publications:
+
 Fraser CI et al. (2018). Antarctica’s ecological isolation will be broken by storm-driven dispersal and warming. Nature Climate Change 8, 704–708. [https://doi.org/10.1038/s41558-018-0209-7](https://doi.org/10.1038/s41558-018-0209-7).
+
 Fraser CI et al. (2022). Southern Hemisphere coasts are biologically connected by frequent, long-distance rafting events. Current Biology 32(14), 3154-3160. [https://doi.org/10.1016/j.cub.2022.05.035](https://doi.org/10.1016/j.cub.2022.05.035).
 
 
