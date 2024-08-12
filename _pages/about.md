@@ -10,6 +10,8 @@ redirect_from:
 Kia ora, Hello!
 I am a PhD student at the University of Otago, New Zealand, supervised by Prof. Ceridwen Fraser and Dr. Alana Alexander. I am studying about the population genomics of buoyant kelp (*Macrocystis pyrifera* | giant bladder kelp or Rimurimu in Maori and *Durvillaea antarctica* | southern bull kelp or Rimurapa in Maori) around the Southern Ocean, and whether they could establish in Antartctica in the future. My methods include population genomics (genotyping-by-sequencing), physiological tolerance experimentation as well as ecological modelling.
 
+![Figure: *Durvillaea* on the beach](https://github.com/plutoxliu/plutoxliu.github.io/blob/5c2b0e3f43e377fc2f92edc7941ae80fd270e67f/images/Picture1.jpg)
+
 Why study this?
 ======
 Antarctica has long been considered to be isolated, with strong oceanographic barriers preventing species - except those that can swim or fly long distances - from reaching it. Antarctica has also been seen as a pristine land largely untouched by humans, with no permanent human settlements other than research stations. However, exciting emerging research is challenging both assumptions. Non-indigenous invertebrates, mosses, grass and seaweeds have been discovered along Antarctic coasts, while human activities have been rapidly increasing over the past decades, actively introducing exotic species. 
