@@ -28,7 +28,7 @@ You can learn more about our project through these publications:
 
 Want to learn about Antarctic genetic/genomic resources? Have a look at this paper!
 ======
-- Liu XP, Duffy GA, Pearman WS, Pertierra LR, Fraser CI (2022). Meta-analysis of Antarctic phylogeography reveals strong sampling bias and critical knowledge gaps. ***Ecography*** : 2022(12). Doi: 10.1111/ecog.06312. <br>
+- Liu XP, Duffy GA, Pearman WS, Pertierra LR, Fraser CI (2022). Meta-analysis of Antarctic phylogeography reveals strong sampling bias and critical knowledge gaps. ***Ecography*** : 2022(12). [Doi: 10.1111/ecog.06312.](https://doi.org/10.1111/ecog.06312) <br>
 
 ![Figure: Geographic patterns of numbers of genetic records of (Liu et al. 2022 Ecography.).](https://github.com/plutoxliu/plutoxliu.github.io/blob/1f91f09d40d8c79f058e162c0ebf2b99789c4c79/images/ecog12938-fig-0002-m.jpg?raw=true)
 Liu et al. (2022). Fig.2: Geographic patterns of numbers of genetic records of (a) animals, (b) embryophyte plants and (c) lichen/fungi/algae in the Antarctic region and (d) associated sampling distance to nearest research stations (hollow circles), from 153 Antarctic terrestrial phylogenetic studies. Values were calculated in 100 km2 cells (zero values not shown).<br><br><br>
@@ -36,9 +36,9 @@ Liu et al. (2022). Fig.2: Geographic patterns of numbers of genetic records of (
 
 Other publications
 ======
-- Pertierra LR et al. (2024). TerrANTALife 1.0 Biodiversity data checklist of known Antarctic terrestrial and freshwater life forms. ***Biodiversity Data Journal*** . 12: e106199. Doi: 10.3897/BDJ.12.e106199. <br>
-- McGaughran et al. (2024). Genomic tools in biological invasions: current state and future frontiers. ***Genome Biology and Evolution*** . 16(1), evad230. Doi: 10.1093/gbe/evad230. <br>
-- Pearman WS, Duffy GA, Liu XP, Gemmell NJ, Morales SE, Fraser CI (2024). Macroalgal microbiome biogeography is shaped by environmental drivers not geographic distance. ***Annals of Botany***. 133(1), 169-182. Doi: 10.1093/aob/mcad151. <br>
+- Pertierra LR et al. (2024). TerrANTALife 1.0 Biodiversity data checklist of known Antarctic terrestrial and freshwater life forms. ***Biodiversity Data Journal*** . 12: e106199. [Doi: 10.3897/BDJ.12.e106199.](https://doi.org/10.3897/BDJ.12.e106199) <br>
+- McGaughran et al. (2024). Genomic tools in biological invasions: current state and future frontiers. ***Genome Biology and Evolution*** . 16(1), evad230. [Doi: 10.1093/gbe/evad230](https://doi.org/10.1093/gbe/evad230). <br>
+- Pearman WS, Duffy GA, Liu XP, Gemmell NJ, Morales SE, Fraser CI (2024). Macroalgal microbiome biogeography is shaped by environmental drivers not geographic distance. ***Annals of Botany***. 133(1), 169-182. [Doi: 10.1093/aob/mcad151.](https://doi.org/10.1093/aob/mcad151) <br>
 - Damen B et al. (2017). Climate Action for Agriculture: Strengthening the role of scientific foresight and climate-smart agriculture in addressing NDC priorities. ***Food and Agriculture Organization of the United Nations (FAO)***. Rome, Italy: FAO. [https://www.fao.org/publications/card/en/c/b881dba6-da51-43b3-a6eb-a83c735b0927]
 
 In review
