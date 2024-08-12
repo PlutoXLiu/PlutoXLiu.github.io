@@ -14,7 +14,7 @@ Education
 * Ph.D in Marine Science and Anatomy, University of Otago, New Zealand, 2026 (expected)
 * Bachelor of Science with Honours in Ecology, University of Otago, New Zealand, 2021
 * Bachelor of Arts and Science in Geography and Zoology, University of Otago, 2020
-* Bachelor of Social Sciences in Economy and Applied Psychology, Lingnan University, Hong Kong, 2017 (not completed)
+* Bachelor of Social Sciences in Economy and Applied Psychology, Lingnan University, Hong Kong, 2017 (transferred)
 
 Work experience
 ======
