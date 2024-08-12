@@ -10,7 +10,7 @@ redirect_from:
 Kia ora, Hello!
 I am a PhD student at the University of Otago, New Zealand, supervised by Prof. Ceridwen Fraser and Dr. Alana Alexander. I am studying about the population genomics of buoyant kelp (*Macrocystis pyrifera* | giant bladder kelp or Rimurimu in Maori and *Durvillaea antarctica* | southern bull kelp or Rimurapa in Maori) around the Southern Ocean, and whether they could establish in Antartctica in the future. My methods include population genomics (genotyping-by-sequencing), physiological tolerance experimentation as well as ecological modelling.
 
-![Figure: *Durvillaea* on the beach](https://github.com/plutoxliu/plutoxliu.github.io/blob/5c2b0e3f43e377fc2f92edc7941ae80fd270e67f/images/Picture1.jpg?raw=true)
+![Figure: *Durvillaea* on the beach](https://github.com/plutoxliu/plutoxliu.github.io/blob/5c2b0e3f43e377fc2f92edc7941ae80fd270e67f/images/Picture1.jpg?raw=true)<br><br>
 
 
 Why study this?
@@ -23,7 +23,7 @@ You can learn more about our project through these publications:
 - Fraser CI et al. (2018). Antarctica’s ecological isolation will be broken by storm-driven dispersal and warming. Nature Climate Change 8, 704–708. [https://doi.org/10.1038/s41558-018-0209-7](https://doi.org/10.1038/s41558-018-0209-7). <br>
 - Fraser CI et al. (2022). Southern Hemisphere coasts are biologically connected by frequent, long-distance rafting events. Current Biology 32(14), 3154-3160. [https://doi.org/10.1016/j.cub.2022.05.035](https://doi.org/10.1016/j.cub.2022.05.035). <br>
 
-![Figure: How kelp reached Antarctica (Fraser et al. 2018 Nat. Clim. Change.).](https://github.com/plutoxliu/plutoxliu.github.io/blob/5fdf92e724602d2cb6f397914bb10a3be67a267a/images/Fraser%20et%20al.%202018.png?raw=true)
+![Figure: How kelp reached Antarctica (Fraser et al. 2018 Nat. Clim. Change.).](https://github.com/plutoxliu/plutoxliu.github.io/blob/5fdf92e724602d2cb6f397914bb10a3be67a267a/images/Fraser%20et%20al.%202018.png?raw=true)<br><br>
 
 
 Want to learn about Antarctic genetic/genomic resources? Have a look at this paper!
@@ -31,7 +31,7 @@ Want to learn about Antarctic genetic/genomic resources? Have a look at this pap
 - Liu XP, Duffy GA, Pearman WS, Pertierra LR, Fraser CI (2022). Meta-analysis of Antarctic phylogeography reveals strong sampling bias and critical knowledge gaps. ***Ecography*** : 2022(12). Doi: 10.1111/ecog.06312. <br>
 
 ![Figure: Geographic patterns of numbers of genetic records of (Liu et al. 2022 Ecography.).](https://github.com/plutoxliu/plutoxliu.github.io/blob/1f91f09d40d8c79f058e162c0ebf2b99789c4c79/images/ecog12938-fig-0002-m.jpg?raw=true)
-Liu et al. (2022). Fig.2: Geographic patterns of numbers of genetic records of (a) animals, (b) embryophyte plants and (c) lichen/fungi/algae in the Antarctic region and (d) associated sampling distance to nearest research stations (hollow circles), from 153 Antarctic terrestrial phylogenetic studies. Values were calculated in 100 km2 cells (zero values not shown).
+Liu et al. (2022). Fig.2: Geographic patterns of numbers of genetic records of (a) animals, (b) embryophyte plants and (c) lichen/fungi/algae in the Antarctic region and (d) associated sampling distance to nearest research stations (hollow circles), from 153 Antarctic terrestrial phylogenetic studies. Values were calculated in 100 km2 cells (zero values not shown).<br><br>
 
 
 Other publications
