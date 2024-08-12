@@ -22,9 +22,14 @@ You can learn more about our project through these publications:
 
 ![Figure: How kelp reached Antarctica (Fraser et al. 2018 Nat. Clim. Change.).](https://github.com/plutoxliu/plutoxliu.github.io/blob/5fdf92e724602d2cb6f397914bb10a3be67a267a/images/Fraser%20et%20al.%202018.png?raw=true)
 
-My publications
+Want to learn about Antarctic genetic/genomic resources? Have a look at this paper!
 ======
 - Liu XP, Duffy GA, Pearman WS, Pertierra LR, Fraser CI (2022). Meta-analysis of Antarctic phylogeography reveals strong sampling bias and critical knowledge gaps. ***Ecography*** : 2022(12). Doi: 10.1111/ecog.06312. <br>
+
+![Figure: Geographic patterns of numbers of genetic records of (Liu et al. 2022 Ecography.).](https://github.com/plutoxliu/plutoxliu.github.io/blob/5fdf92e724602d2cb6f397914bb10a3be67a267a/images/Fraser%20et%20al.%202018.png?raw=true)
+
+Other publications
+======
 - Pertierra LR et al. (2024). TerrANTALife 1.0 Biodiversity data checklist of known Antarctic terrestrial and freshwater life forms. ***Biodiversity Data Journal*** . 12: e106199. Doi: 10.3897/BDJ.12.e106199. <br>
 - McGaughran et al. (2024). Genomic tools in biological invasions: current state and future frontiers. ***Genome Biology and Evolution*** . 16(1), evad230. Doi: 10.1093/gbe/evad230. <br>
 - Pearman WS, Duffy GA, Liu XP, Gemmell NJ, Morales SE, Fraser CI (2024). Macroalgal microbiome biogeography is shaped by environmental drivers not geographic distance. ***Annals of Botany***. 133(1), 169-182. Doi: 10.1093/aob/mcad151. <br>
