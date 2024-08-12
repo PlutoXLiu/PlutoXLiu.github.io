@@ -27,6 +27,7 @@ Want to learn about Antarctic genetic/genomic resources? Have a look at this pap
 - Liu XP, Duffy GA, Pearman WS, Pertierra LR, Fraser CI (2022). Meta-analysis of Antarctic phylogeography reveals strong sampling bias and critical knowledge gaps. ***Ecography*** : 2022(12). Doi: 10.1111/ecog.06312. <br>
 
 ![Figure: Geographic patterns of numbers of genetic records of (Liu et al. 2022 Ecography.).](https://github.com/plutoxliu/plutoxliu.github.io/blob/1f91f09d40d8c79f058e162c0ebf2b99789c4c79/images/ecog12938-fig-0002-m.jpg)
+Liu et al. (2022). Fig.2: Geographic patterns of numbers of genetic records of (a) animals, (b) embryophyte plants and (c) lichen/fungi/algae in the Antarctic region and (d) associated sampling distance to nearest research stations (hollow circles), from 153 Antarctic terrestrial phylogenetic studies. Values were calculated in 100 km2 cells (zero values not shown).
 
 Other publications
 ======
