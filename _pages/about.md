@@ -10,7 +10,7 @@ redirect_from:
 Kia ora, Hello!
 I am a PhD student at the University of Otago, New Zealand, supervised by Prof. Ceridwen Fraser and Dr. Alana Alexander. I am studying about the population genomics of buoyant kelp (*Macrocystis pyrifera* | giant bladder kelp or Rimurimu in Maori and *Durvillaea antarctica* | southern bull kelp or Rimurapa in Maori) around the Southern Ocean, and whether they could establish in Antartctica in the future. My methods include population genomics (genotyping-by-sequencing), physiological tolerance experimentation as well as ecological modelling.
 
-![Figure: *Durvillaea* on the beach](https://github.com/plutoxliu/plutoxliu.github.io/blob/5c2b0e3f43e377fc2f92edc7941ae80fd270e67f/images/Picture1.jpg)
+![Figure: *Durvillaea* on the beach](https://github.com/plutoxliu/plutoxliu.github.io/blob/5c2b0e3f43e377fc2f92edc7941ae80fd270e67f/images/Picture1.jpg?raw=true)
 
 
 Why study this?
@@ -30,7 +30,7 @@ Want to learn about Antarctic genetic/genomic resources? Have a look at this pap
 ======
 - Liu XP, Duffy GA, Pearman WS, Pertierra LR, Fraser CI (2022). Meta-analysis of Antarctic phylogeography reveals strong sampling bias and critical knowledge gaps. ***Ecography*** : 2022(12). Doi: 10.1111/ecog.06312. <br>
 
-![Figure: Geographic patterns of numbers of genetic records of (Liu et al. 2022 Ecography.).](https://github.com/plutoxliu/plutoxliu.github.io/blob/1f91f09d40d8c79f058e162c0ebf2b99789c4c79/images/ecog12938-fig-0002-m.jpg)
+![Figure: Geographic patterns of numbers of genetic records of (Liu et al. 2022 Ecography.).](https://github.com/plutoxliu/plutoxliu.github.io/blob/1f91f09d40d8c79f058e162c0ebf2b99789c4c79/images/ecog12938-fig-0002-m.jpg?raw=true)
 Liu et al. (2022). Fig.2: Geographic patterns of numbers of genetic records of (a) animals, (b) embryophyte plants and (c) lichen/fungi/algae in the Antarctic region and (d) associated sampling distance to nearest research stations (hollow circles), from 153 Antarctic terrestrial phylogenetic studies. Values were calculated in 100 km2 cells (zero values not shown).
 
 
