@@ -12,6 +12,7 @@ I am a PhD student at the University of Otago, New Zealand, supervised by Prof. 
 
 ![Figure: *Durvillaea* on the beach](https://github.com/plutoxliu/plutoxliu.github.io/blob/5c2b0e3f43e377fc2f92edc7941ae80fd270e67f/images/Picture1.jpg)
 
+
 Why study this?
 ======
 Antarctica has long been considered to be isolated, with strong oceanographic barriers preventing species - except those that can swim or fly long distances - from reaching it. Antarctica has also been seen as a pristine land largely untouched by humans, with no permanent human settlements other than research stations. However, exciting emerging research is challenging both assumptions. Non-indigenous invertebrates, mosses, grass and seaweeds have been discovered along Antarctic coasts, while human activities have been rapidly increasing over the past decades, actively introducing exotic species. 
@@ -24,12 +25,14 @@ You can learn more about our project through these publications:
 
 ![Figure: How kelp reached Antarctica (Fraser et al. 2018 Nat. Clim. Change.).](https://github.com/plutoxliu/plutoxliu.github.io/blob/5fdf92e724602d2cb6f397914bb10a3be67a267a/images/Fraser%20et%20al.%202018.png?raw=true)
 
+
 Want to learn about Antarctic genetic/genomic resources? Have a look at this paper!
 ======
 - Liu XP, Duffy GA, Pearman WS, Pertierra LR, Fraser CI (2022). Meta-analysis of Antarctic phylogeography reveals strong sampling bias and critical knowledge gaps. ***Ecography*** : 2022(12). Doi: 10.1111/ecog.06312. <br>
 
 ![Figure: Geographic patterns of numbers of genetic records of (Liu et al. 2022 Ecography.).](https://github.com/plutoxliu/plutoxliu.github.io/blob/1f91f09d40d8c79f058e162c0ebf2b99789c4c79/images/ecog12938-fig-0002-m.jpg)
 Liu et al. (2022). Fig.2: Geographic patterns of numbers of genetic records of (a) animals, (b) embryophyte plants and (c) lichen/fungi/algae in the Antarctic region and (d) associated sampling distance to nearest research stations (hollow circles), from 153 Antarctic terrestrial phylogenetic studies. Values were calculated in 100 km2 cells (zero values not shown).
+
 
 Other publications
 ======
